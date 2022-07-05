@@ -3,7 +3,7 @@
     padding: 0;
 }
 body{
-    background-image: url(/dishonored-background.jpeg);
+    background-image: url(dishonored-background.jpeg);
     background-repeat: no-repeat;
     background-size:cover;
     background-color: black;
